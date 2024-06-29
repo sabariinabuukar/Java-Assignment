@@ -1,4 +1,7 @@
 // Import the necessary Java utilities package.
+//Name: Sabariin Abukar
+//ID: C1220793
+
 import java.util.Arrays;
 public class quize {
 
